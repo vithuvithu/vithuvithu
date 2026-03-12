@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Projects
-- https://bbdsp.com/
+- https://bbdsppvt.com/
 - https://mynahfarms.lk/
