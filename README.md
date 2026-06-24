@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## 🌐 Projects
 
-- **[ATI Batticaloa Website](https://atibatti.edu.lk/)**
+- [ATI Batticaloa Website](https://atibatti.edu.lk/)
 - **[BBDSP Consultant Landing Page](https://bbdsppvt.com/)**
 - **[Mynah Farms](https://mynahfarms.lk/)**
 - **[Doctor Landing Page](https://drahilan.com/)**
