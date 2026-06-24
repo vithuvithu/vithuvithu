@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
--->
-## Projects
--ATI Batticaloa Website: https://atibatti.edu.lk/
--BBDSP Consultant Landing Page: https://bbdsppvt.com/
--Mynah Farms: https://mynahfarms.lk/
--Doctor LandingPage: https://drahilan.com/
--Canada Condo Website : https://canada-condo.vercel.app/
--Lions club : https://lions-club.vercel.app/
--Swami Vivekananda Welfare Society Batticaloa: https://vivek-pearl.vercel.app/
--Refott: https://refortt.vercel.app/,https://www.refott.org/
- 
+## 🌐 Projects
+
+- **[ATI Batticaloa Website](https://atibatti.edu.lk/)**
+- **[BBDSP Consultant Landing Page](https://bbdsppvt.com/)**
+- **[Mynah Farms](https://mynahfarms.lk/)**
+- **[Doctor Landing Page](https://drahilan.com/)**
+- **[Canada Condo Website](https://canada-condo.vercel.app/)**
+- **[Lions Club](https://lions-club.vercel.app/)**
+- **[Swami Vivekananda Welfare Society Batticaloa](https://vivek-pearl.vercel.app/)**
+- **[Refott](https://refortt.vercel.app/), [Refott Official](https://www.refott.org/)**
+
