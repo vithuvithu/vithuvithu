@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Projects
-- https://bbdsppvt.com/
-- https://mynahfarms.lk/
+ATI Batticaloa Website: https://atibatti.edu.lk/
+BBDSP Consultant Landing Page: https://bbdsppvt.com/
+Mynah Farms: https://mynahfarms.lk/
+Doctor LandingPage: https://drahilan.com/
+Canada Condo Website : https://canada-condo.vercel.app/
+Lecture Academic Portfolio: https://lecturer-beta.vercel.app/
+Lions club : https://lions-club.vercel.app/
+Swami Vivekananda Welfare Society Batticaloa: https://vivek-pearl.vercel.app/
+Empowering Families, Enriching Lives: https://refortt.vercel.app/
+Doctor Portfolio : https://dr-arul.vercel.app/
